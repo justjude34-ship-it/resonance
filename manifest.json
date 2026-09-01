@@ -1,18 +1,1 @@
-{
-  "name": "Resonance",
-  "short_name": "Resonance",
-  "description": "Soft adaptive breathwork with layered sound",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#140F18",
-  "theme_color": "#F3B6D2",
-  "icons": [
-    {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><circle cx='32' cy='32' r='30' fill='%23F3B6D2'/><circle cx='32' cy='32' r='16' fill='%23D4B4F8'/></svg>",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+manifest
